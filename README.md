@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bruno0Vinicius
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 
 im new on github ,i know nothing about but im curious to learn
